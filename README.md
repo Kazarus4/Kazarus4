@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kazarus4
-- 👀 I’m interested in development, astronomy, quantum physics, music and molecular biology
+- 👀 I’m interested in development, astronomy, quantum physics, music (piano) and molecular biology
 - 🌱 I’m currently learning to use GitHub
 - 💞️ I’m looking to collaborate on my company's projects
 - 📫 How to reach me : not for the moment
